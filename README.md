@@ -1,1 +1,1 @@
-# Belgun-lab.github.io
+# lab1
